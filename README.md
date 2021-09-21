@@ -48,18 +48,4 @@ If you have done the optional steps to load the example programs, you can also o
 from your Arduino IDE Software Menu, File | Examples | min_ssd1306i2c | ... 
 
 
----
-
-Folder Structure and files location,
-
-"Arduino Working Folder" - libraries - min_ssd1306i2c - min_ssd1306i2c.h
-                                                      - min_ssd1306i2c.cpp
-                                                      - examples - basic_demo - basic_demo.ino
-                                                                 - full_demo - full_demo.ino
-                                                                 - full_demo_avr - full_demo.ino
-                                                                 
----
--   https://github.com/teaksoon/teaksoon
-<!---
-Lets see how it goes here
---->
+https://github.com/teaksoon/teaksoon
