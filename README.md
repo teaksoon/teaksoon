@@ -1,2 +1,1 @@
-
-https://github.com/teaksoon/teaksoon
+Newbies here
